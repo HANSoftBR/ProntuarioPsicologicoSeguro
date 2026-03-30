@@ -10,7 +10,7 @@ Licença: **Proprietária** (veja `LICENSE.txt`)
 
 O **Prontuário Psicológico Seguro** é um software desenvolvido para psicólogos, consultórios e profissionais que precisam organizar atendimentos clínicos com praticidade, privacidade e segurança.
 
-O sistema permite gerenciar **pacientes, prontuários, sessões, retornos, informações financeiras e observações clínicas**, tudo de forma centralizada e com foco em uso profissional no dia a dia.
+O sistema permite gerenciar **pacientes, prontuários, sessões, informações financeiras e observações clínicas**, tudo de forma centralizada e com foco em uso profissional no dia a dia.
 
 Todos os dados permanecem **exclusivamente no dispositivo do usuário**, sem dependência de servidores externos.
 
@@ -25,7 +25,7 @@ Todos os dados permanecem **exclusivamente no dispositivo do usuário**, sem dep
 
 ### Sessões e Evolução
 - Registro de sessões e atendimentos
-- Controle de próximos passos e retornos
+- Controle de próximos passos
 - Organização cronológica do histórico clínico
 
 ### Controle Financeiro
