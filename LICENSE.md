@@ -1,4 +1,6 @@
 # Licença de Uso – Software Proprietário
+**Status:** Descontinuado  
+Este projeto não está mais em desenvolvimento ou manutenção ativa.
 
 **Nome do Software:** Prontuário Psicológico Seguro  
 **Autor:** HANSoft (Desenvolvedor independente)  
@@ -61,7 +63,7 @@ A HANSoft não possui acesso remoto aos dados armazenados no dispositivo do usu�
 
 ## 5. Segurança e Responsabilidade do Usuário
 
-O **Prontuário Psicológico Seguro** utiliza mecanismos de criptografia e proteção local para aumentar a segurança das informações armazenadas.
+O **Prontuário Psicológico Seguro** utiliza mecanismos de criptografia e proteção local destinados a aumentar a segurança das informações armazenadas no dispositivo do usuário.
 
 Entretanto:
 
@@ -69,29 +71,41 @@ Entretanto:
 - o esquecimento da senha mestra pode resultar na perda irreversível do acesso aos dados locais;
 - o usuário é responsável por manter a segurança física e lógica do dispositivo em que o software estiver instalado;
 - backups automáticos locais e backups manuais devem ser protegidos adequadamente pelo próprio usuário;
-- a HANSoft não possui acesso, recuperação ou redefinição dos dados protegidos pela senha do usuário.
+- a HANSoft não possui acesso, recuperação ou redefinição dos dados protegidos pela senha do usuário;
+- o usuário deve realizar backups periódicos e testar previamente os procedimentos de backup e restauração antes de utilizá-los em ambiente real;
+- o usuário deve verificar se o uso do software atende às exigências técnicas, éticas e profissionais aplicáveis à sua atividade.
 
 ---
 
-## 6. Isenção de Garantia
+## 6. Isenção de Garantia e Limitação de Responsabilidade
 
-O software é fornecido **"NO ESTADO EM QUE SE ENCONTRA" (AS IS)**, sem garantias de qualquer tipo, expressas ou implícitas, incluindo, mas não se limitando a:
+O **Prontuário Psicológico Seguro** é fornecido **"NO ESTADO EM QUE SE ENCONTRA"** (**"AS IS"**), de acordo com suas funcionalidades normais e limitações técnicas previsíveis, **sem garantias de qualquer tipo**, expressas ou implícitas, incluindo, sem limitação:
 
 - garantias de comercialização;
 - adequação a uma finalidade específica;
 - funcionamento ininterrupto;
-- ausência de falhas, erros ou vulnerabilidades.
+- ausência de falhas, erros, bugs ou vulnerabilidades.
 
-Embora o software utilize práticas de segurança e armazenamento criptografado, não há garantia de proteção absoluta contra todas as ameaças, falhas de hardware, falhas do sistema operacional ou ações indevidas de terceiros.
+Embora o software utilize práticas de segurança e armazenamento criptografado, a **HANSoft** não garante:
 
-O desenvolvedor não se responsabiliza por:
+- proteção absoluta contra todas as ameaças, falhas de hardware, falhas do sistema operacional ou ações indevidas de terceiros;
+- recuperação integral de dados em qualquer hipótese de falha;
+- impossibilidade de perda de acesso aos dados em caso de esquecimento da senha mestra;
+- ausência total de comportamentos inesperados durante o uso.
 
-- perda de dados decorrente do esquecimento da senha mestra;
-- acesso não autorizado ao dispositivo do usuário;
+Bugs, falhas e comportamentos inesperados **podem existir e podem ocorrer durante o uso**, mesmo com testes e cuidados no desenvolvimento. Nenhum software é totalmente livre de erros.
+
+O usuário reconhece que a **decisão de utilizar este software é feita por sua própria escolha e responsabilidade**, devendo avaliar previamente se ele atende às suas necessidades e se é adequado ao ambiente em que será utilizado.
+
+Na máxima extensão permitida pela legislação aplicável, a **HANSoft** não se responsabiliza por prejuízos decorrentes de:
+
+- esquecimento da senha mestra;
+- perda, corrupção ou exclusão indevida de dados;
 - uso inadequado do software;
-- falhas causadas pelo ambiente do sistema operacional.
-
-Em nenhuma hipótese a HANSoft será responsável por quaisquer danos diretos, indiretos, incidentais, especiais ou consequenciais decorrentes do uso ou da incapacidade de uso do software.
+- falhas, bugs ou comportamentos inesperados;
+- acesso não autorizado ao dispositivo do usuário;
+- falhas no sistema operacional ou no ambiente do usuário;
+- malware, keyloggers, acesso físico ao dispositivo, captura indevida de tela, engenharia social, interrupção elétrica, erro humano ou interferência de antivírus, filtros e softwares de terceiros.
 
 ---
 
