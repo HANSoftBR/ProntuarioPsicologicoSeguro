@@ -15,7 +15,7 @@ Licença: **Proprietária** (veja `LICENSE.txt`)
 
 O **Prontuário Psicológico Seguro** é um software desenvolvido para psicólogos, consultórios e profissionais que precisam organizar atendimentos clínicos com praticidade, privacidade e segurança.
 
-O sistema permite gerenciar **pacientes, prontuários, sessões, informações financeiras e observações clínicas**, tudo de forma centralizada e com foco em uso profissional no dia a dia.
+O sistema permite gerenciar **pacientes, prontuários, sessões, informações financeiras e relacionadas ao atendimento psicológico**, tudo de forma centralizada e com foco em uso profissional no dia a dia.
 
 Todos os dados permanecem **exclusivamente no dispositivo do usuário**, sem dependência de servidores externos.
 
@@ -84,14 +84,43 @@ Consulte o arquivo `LICENSE.txt` para mais informações.
 
 ## Aviso Legal
 
-O software é fornecido **"AS IS" (no estado em que se encontra)**, sem garantias de qualquer tipo.
+O **Prontuário Psicológico Seguro** é fornecido **"no estado em que se encontra"** (**"AS IS"**), de acordo com suas funcionalidades normais e limitações técnicas previsíveis, **sem garantias de qualquer tipo**, expressas ou implícitas.
 
-O desenvolvedor não se responsabiliza por:
+Este software destina-se à **organização local de prontuários, sessões, informações financeiras e observações relacionadas ao atendimento psicológico**, com armazenamento exclusivo no dispositivo do usuário.
 
-- perda de dados decorrente do esquecimento da senha mestra;
-- acesso não autorizado ao dispositivo do usuário;
+**O Desenvolvedor não garante:**
+
+- ausência total de falhas, erros, bugs ou vulnerabilidades;
+- funcionamento ininterrupto;
+- recuperação integral de dados em qualquer hipótese de falha;
+- impossibilidade de perda de acesso aos dados em caso de esquecimento da senha mestra;
+- proteção absoluta contra acesso indevido, falhas do sistema, corrupção de dados ou comprometimento do ambiente do usuário.
+
+Bugs, falhas e comportamentos inesperados **podem existir e podem ocorrer durante o uso**, mesmo com testes e cuidados no desenvolvimento. Nenhum software é totalmente livre de erros.
+
+O usuário reconhece que a **decisão de utilizar este software é feita por sua própria escolha e responsabilidade**, devendo avaliar previamente se ele atende às suas necessidades e se é adequado ao ambiente em que será utilizado.
+
+**O usuário é responsável por:**
+
+- manter a senha mestra em local seguro;
+- proteger o dispositivo em que o software estiver instalado;
+- realizar backup periódico das informações relevantes;
+- testar rotinas de backup e restauração antes de utilizá-las em ambiente real;
+- verificar se o uso do software atende às exigências técnicas, éticas e profissionais aplicáveis à sua atividade.
+
+Na máxima extensão permitida pela legislação aplicável, a **HANSoft** não se responsabiliza por prejuízos decorrentes de:
+
+- esquecimento da senha mestra;
+- perda, corrupção ou exclusão indevida de dados;
 - uso inadequado do software;
-- falhas causadas pelo ambiente do sistema operacional.
+- falhas, bugs ou comportamentos inesperados;
+- acesso não autorizado ao dispositivo do usuário;
+- falhas no sistema operacional ou no ambiente do usuário;
+- malware, engenharia social, interrupção elétrica, erro humano ou interferência de softwares de terceiros.
+
+---
+
+**Importante:** nenhum software pode oferecer garantia absoluta de segurança, funcionamento contínuo ou recuperação total de dados em todos os cenários.
 
 ---
 
