@@ -5,7 +5,7 @@ Este projeto não está mais em desenvolvimento ou manutenção ativa.
 > **Status:** Descontinuado  
 > Este projeto não está mais em desenvolvimento ou manutenção ativa.
 
-**Prontuário Psicológico Seguro v1.0.0**  
+**Prontuário Psicológico Seguro v2.0.0**  
 Email: **devhansoft@gmail.com**  
 Licença: **Proprietária** (veja `LICENSE.txt`)
 
